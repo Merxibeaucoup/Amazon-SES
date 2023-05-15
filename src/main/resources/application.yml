@@ -1,0 +1,14 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: AKIASXSUMI76AGRV2KWK
+      secret-key: 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
+      
+      
+server:
+  port: 8443     
