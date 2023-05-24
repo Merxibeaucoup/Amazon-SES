@@ -13,7 +13,6 @@ import com.amazonaws.services.simpleemail.AmazonSimpleEmailServiceClientBuilder;
 import io.awspring.cloud.ses.SimpleEmailServiceMailSender;
 
 @Configuration
-
 public class SesConfiguration {
 
 	@Value("${cloud.aws.credentials.access-key}")
